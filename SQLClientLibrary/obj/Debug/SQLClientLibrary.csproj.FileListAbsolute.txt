@@ -1,0 +1,6 @@
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SQLClientLibrary\obj\Debug\SQLClientLibrary.csproj.AssemblyReference.cache
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SQLClientLibrary\obj\Debug\SQLClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SQLClientLibrary\bin\Debug\SQLClientLibrary.dll
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SQLClientLibrary\bin\Debug\SQLClientLibrary.pdb
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SQLClientLibrary\obj\Debug\SQLClientLibrary.dll
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SQLClientLibrary\obj\Debug\SQLClientLibrary.pdb

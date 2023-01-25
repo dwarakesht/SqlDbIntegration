@@ -1,0 +1,17 @@
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\obj\Debug\SqlClientTest.csproj.AssemblyReference.cache
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\obj\Debug\SqlClientTest.csproj.CoreCompileInputs.cache
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\bin\Debug\SqlClientTest.dll
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\bin\Debug\SqlClientTest.pdb
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\bin\Debug\SQLClientLibrary.dll
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\bin\Debug\SQLClientLibrary.pdb
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\obj\Debug\SqlClientTest.csproj.CopyComplete
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\obj\Debug\SqlClientTest.dll
+C:\Users\DWARAKESH\source\repos\SQLClientLibrary\SqlClientTest\obj\Debug\SqlClientTest.pdb
